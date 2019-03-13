@@ -23,9 +23,9 @@ Small e-commerce project devided into 3 logical parts:
  - cart service - provides logic to add to user cart some product, view items in cart and checkout;
 
 #### Project acceptance criteria
-1. System can serve # of users for some period of time
-2. System can serve # of max user in peak time simultanuesly.
-3. System has ____% of up time.
+1. System can serve # of users for some period of time - *To define by business owner*
+2. System can serve # of max user in peak time simultanuesly - *To define by business owner*
+3. System has ____% of up time - *To define by business owner*
 #### Risks
 - Risk of network failure.
 - Risk of hardware failure.
@@ -49,7 +49,7 @@ High-level test reprort cantaining graphics and table of test results as well as
 - **Response time** - max 0.8 sec (including max slowdown time of 0.5 sec)
 - **Throughput** - must be defined by business owner.
 - **Max throughput** - Throughput * **multiplier**. Multiplier must be defined according to market research of peak time purchases/page views and user behavior.
-- 
+
 #### Reliability measurements
 - Downtime -TBD
 - Availability - TBD
